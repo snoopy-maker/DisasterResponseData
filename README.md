@@ -74,6 +74,14 @@ A Python script, train_classifier.py, write a machine learning pipeline that:
 3. Flask Web App
 A flask web app with interactive classification that run the model based on new messages that you enter yourself, and displays visualizations about disaster messages using Plotly.
 
+![Interactive](images/DRProject_InterativeClassification.png)  
+
+![messagesbygenre](images/DistMsgGenre.png)
+
+![messagesbycategory](images/DistMsgCategory.png)
+
+![messagesbywordcount](images/DistMsgWordCount.png)
+
 ## Instructions
 How to Interact with Project:
 1. Run the following commands in the project's root directory to set up your database and model.
